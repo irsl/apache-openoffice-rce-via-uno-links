@@ -39,7 +39,7 @@ couldn't find a practical way to turn it into code execution on that OS.
 All Apache OpenOffice 4 versions.
 
 
-# Was a CVE assigned to this issue?
+## Was a CVE assigned to this issue?
 
 No. Even though Apache is an official CVE Numbering Authority, they didn't
 assign a CVE to this flaw. When asking for an ID, I was told they are about
