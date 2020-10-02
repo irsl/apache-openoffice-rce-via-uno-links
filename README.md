@@ -48,7 +48,7 @@ assign a CVE to this flaw. When asking for an ID, I was told they are about
 to use CVE-2018-16858, which is a Libreoffice specific, unrelated bug. 
 They are different even in nature: path traversal (CWE-23) vs protection 
 mechanism failure (CWE-693). 
-In the follow up Apache claimed to reuse CVE-2019-9847 insted as they 
+In the follow up Apache claimed to reuse CVE-2019-9847 instead as they 
 thought the issue was the same but their original fix was incomplete. 
 
 CVE-2019-9847 looks indeed much closer to the flaw I reported, but again, 
