@@ -12,6 +12,7 @@ The problem is, the product does not handle script:event-listener
 handlers as macro execution (like LibreOffice does). Using a construct
 like this:
 
+```
 <office:scripts>
    <office:event-listeners>
 
@@ -20,6 +21,7 @@ xlink:href=".uno:OpenHyperlinkOnCursor" script:event-name="dom:load"/>
 
    </office:event-listeners>
 </office:scripts>
+```
 
 One can trigger opening URLs without any confirmation dialogs in OpenOffice,
 including special .uno or .service link handlers that were designed for 
