@@ -1,4 +1,4 @@
-# Apache OpenOffice RCE
+# Apache OpenOffice RCE (CVE-2020-13958)
 
 ## Summary
 
@@ -38,7 +38,7 @@ couldn't find a practical way to turn it into code execution on that OS.
 
 ## Affected versions
 
-All Apache OpenOffice 4 versions.
+Apache OpenOffice 4 versions before 4.1.8.
 
 
 ## Was a CVE assigned to this issue?
@@ -59,9 +59,11 @@ started looking for simulating clicks without user interaction. I'm
 uncertain whether the fix of security issues among the office forks
 are ported or not, but CVE-2019-9847 was never remediated for OpenOffice.
 
+Update: see time line.
+
 ## Remediation
 
-Stop using Apache OpenOffice.
+Upgrade to Apache OpenOffice.
 
 ## Timeline
 
@@ -71,3 +73,7 @@ Stop using Apache OpenOffice.
 2020-09-05: asking for a timeline, offering embargo until October
 2020-09-06: confirming there is no timeline for the fix
 2020-10-01: full disclosure
+2020-10-01: securityweek.com requests Apache for comments
+2020-10-02: commitment made to fix the flaw and to release it within the next two weeks
+2020-10-05: CVE-2020-13958 assigned
+2020-11-10: Apache OpenOffice 4.1.8 released along with the fix
