@@ -67,13 +67,13 @@ Upgrade to Apache OpenOffice.
 
 ## Timeline
 
-2020-04-28: report to security@openoffice.apache.org
-2020-05-01: vulnerability acknowledged
-2020-06-05: asking for updates
-2020-09-05: asking for a timeline, offering embargo until October
-2020-09-06: confirming there is no timeline for the fix
-2020-10-01: full disclosure
-2020-10-01: securityweek.com requests Apache for comments
-2020-10-02: commitment made to fix the flaw and to release it within the next two weeks
-2020-10-05: CVE-2020-13958 assigned
-2020-11-10: Apache OpenOffice 4.1.8 released along with the fix
+* 2020-04-28: report to security@openoffice.apache.org
+* 2020-05-01: vulnerability acknowledged
+* 2020-06-05: asking for updates
+* 2020-09-05: asking for a timeline, offering embargo until October
+* 2020-09-06: confirming there is no timeline for the fix
+* 2020-10-01: full disclosure
+* 2020-10-01: securityweek.com requests Apache for comments
+* 2020-10-02: commitment made to fix the flaw and to release it within the next two weeks
+* 2020-10-05: CVE-2020-13958 assigned
+* 2020-11-10: Apache OpenOffice 4.1.8 released along with the fix
